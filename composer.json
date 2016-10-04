@@ -1,5 +1,5 @@
 {
-    "name": "allure-framework/allure-codeception",
+    "name": "tt-allure-framework/allure-codeception",
     "keywords":["codeception", "testing", "report", "steps", "attachments", "cases", "allure"],
     "description": "A Codeception adapter for Allure report.",
     "homepage": "http://allure.qatools.ru/",
@@ -19,8 +19,8 @@
 	    "php": ">=5.4.0",
         "codeception/codeception": "~2.1.0",
         "allure-framework/allure-php-api": "~1.1.0",
-        "symfony/filesystem": "~2.7",
-        "symfony/finder": "~2.7"
+        "symfony/filesystem": "~3.1",
+        "symfony/finder": "~3.1"
     },
     "autoload": {
         "psr-0": {
